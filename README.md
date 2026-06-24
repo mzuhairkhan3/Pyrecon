@@ -45,8 +45,8 @@ python pyrecon.py -t scanme.nmap.org -p 1-100 --no-threads
 ## Installation
 
 ```bash
-git clone https://github.com/mzuhairkhan3/Pyrecon.git
-cd Pyrecon
+git clone https://github.com/mzuhairkhan3/PyRecon.git
+cd PyRecon
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 ```
